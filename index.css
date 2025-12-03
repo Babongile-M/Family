@@ -151,6 +151,7 @@ body, html {
 
 .memory-image{
     height: 260px;
+    width: 60vh;
     background: white;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -173,3 +174,4 @@ footer p {
     margin: 0.5vh 0;
 
 }
+
